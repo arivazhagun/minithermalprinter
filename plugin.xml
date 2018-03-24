@@ -19,6 +19,6 @@
     <source-file src="src/android/app/src/main/java/sdk/Command.java" target-dir="src/cordova/plugin/minithermalprinter/minithermalprinter" />
     <source-file src="src/android/app/src/main/java/sdk/PrinterCommand.java" target-dir="src/cordova/plugin/minithermalprinter/minithermalprinter" />
     <source-file src="src/android/app/src/main/java/sdk/PrintPicture.java" target-dir="src/cordova/plugin/minithermalprinter/minithermalprinter" />
-    <framework custom="true" src="src/android/build.gradle" type="gradleReference" />
+    
   </platform>
 </plugin>
