@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="__local_aars__:E.\Projects\Merchantprinter\platforms\android\lib\btsdk.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/btsdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
