@@ -6,7 +6,7 @@
   </js-module>
   <platform name="android">
     <config-file parent="/*" target="res/xml/config.xml">
-      <feature name="Bluetooth">
+      <feature name="AABBluetooth">
         <param name="android-package" value="cordova.plugin.minithermalprinter.Bluetooth" />
       </feature>
     </config-file>
