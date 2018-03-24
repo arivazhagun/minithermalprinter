@@ -12,6 +12,6 @@
     </config-file>
     <config-file parent="/*" target="AndroidManifest.xml"></config-file>
     <source-file src="src/android/minithermalprinter.java" target-dir="src/cordova/plugin/minithermalprinter/minithermalprinter" />
-  <!--  <framework custom="true" src="src/android/hypertrack-sdk.gradle" type="gradleReference" />-->
+  <framework custom="true" src="src/android/build.gradle" type="gradleReference" />
   </platform>
 </plugin>
