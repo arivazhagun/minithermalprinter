@@ -1,0 +1,9 @@
+dependencies {
+  compile('io.hypertrack:transmitter:1.4.20:release@aar') {
+    transitive = true;
+  }
+
+  compile 'com.google.android.gms:play-services-gcm:9.6.1'
+  compile 'com.google.android.gms:play-services-location:9.6.1'
+
+}
