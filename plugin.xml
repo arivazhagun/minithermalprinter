@@ -11,7 +11,7 @@
       </feature>
     </config-file>
     <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-    <source-file src="src/android/app/src/main/java/com/termal/print/Bluetooth.java" target-dir="src/cordova/plugin/minithermalprinter/minithermalprinter" />
+    <source-file src="src/android/minithermalprinter.java" target-dir="src/cordova/plugin/minithermalprinter/minithermalprinter" />
 
   </platform>
 </plugin>
