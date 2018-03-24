@@ -17,7 +17,7 @@
        under the License.
  */
 
-package cordova.plugins.minithermalprinter;
+package com.merchant.print;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

@@ -1,4 +1,4 @@
-package cordova.plugins.minithermalprinter;
+package com.merchant.print;
 
 import java.io.IOException;
 import java.io.InputStream;

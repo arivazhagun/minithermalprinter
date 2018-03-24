@@ -1,5 +1,5 @@
 
-package cordova.plugins.minithermalprinter;
+package com.merchant.print;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
