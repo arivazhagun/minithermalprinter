@@ -54,8 +54,8 @@
       <file leaf-file-name="minithermalprinter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/merchant/print/minithermalprinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="83" column="51" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -88,8 +88,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>conne</find>
-      <find>RemoteAddress</find>
       <find>mService</find>
       <find>ScanBluetoothDevice</find>
       <find>PrintOrder</find>
@@ -118,6 +116,8 @@
       <find>page-orderstoday</find>
       <find>orderstoday</find>
       <find>abb</find>
+      <find>bluetooths</find>
+      <find>BluetoothService</find>
     </findStrings>
     <replaceStrings>
       <replace>context</replace>
@@ -3263,7 +3263,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521904117125" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521905179305" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3311,7 +3311,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521904117125" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521905179305" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3494,7 +3494,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521904117126" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521905179306" />
       </method>
     </configuration>
     <list size="1">
@@ -4034,8 +4034,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/merchant/print/minithermalprinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="83" column="51" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="51" />
           <folding />
         </state>
       </provider>
