@@ -259,11 +259,13 @@ android {
 dependencies {
     implementation fileTree(include: '*.jar', dir: 'libs')
     // SUB-PROJECT DEPENDENCIES START
-    implementation(project(path: ":CordovaLib"))
-    compile "com.google.android.gms:play-services-analytics:+"
+    implementation project(path: ':CordovaLib')
+    compile 'com.google.android.gms:play-services-analytics:+'
     // SUB-PROJECT DEPENDENCIES END
     implementation files('E:/Projects/Merchantprinter/platforms/android/lib/btsdk.jar')
     implementation files('E:/Projects/Merchantprinter/platforms/android/lib/zixng.jar')
+    implementation files('src/main/libs/btsdk.jar')
+    implementation files('src/main/libs/zixng.jar')
 }
 
 def promptForReleaseKeyPassword() {
